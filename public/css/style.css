@@ -1,0 +1,26 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+form label {
+  display: block;
+  padding: 5px 0;
+}
+
+form input { margin-bottom: 15px; }
+
+.submit-button { 
+  display: block; 
+  margin-top: 10px; 
+  background-color: blue; 
+  padding: 10px 15px;
+  color: white;
+  border-radius: 8px;
+  border-style: none;
+  cursor: pointer;
+}
